@@ -1,5 +1,5 @@
 # ==========================================
-# Name: Alok Sooryavanshii
+# Name: Alok Kumar
 # Project: Student Grade Calculator
 # Week 2 - Python Internship
 # ==========================================
